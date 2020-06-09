@@ -1,0 +1,49 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### log file
+logs/
+
+.log
+.pid
+.gradle/6.1/vcsMetadata-1/
+.idea/modules/
+.idea/sonarlint/
+Client/build/generated/
+Client/build/tmp/
+Client/src/main/resources/
+Client/src/test/
+build/generated/
+build/tmp/
+src/main/resources/
+src/test/
